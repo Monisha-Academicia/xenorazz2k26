@@ -1,21 +1,15 @@
-# XENORAZZ 2K26 Symposium Website
+# XENORAZZ 2K26 – Updated Vercel Website
 
-Static HTML/CSS/JavaScript website for XENORAZZ 2K26, DMI Engineering College.
+Updated light premium symposium website for DMI Engineering College.
 
-## Run locally
+## Included
+- DMI Engineering College logo
+- Google Form registration button
+- Countdown to 07 October 2026 at 9:00 AM IST
+- Event rules and guidelines from the supplied handwritten notes
+- Google Maps venue section and directions button
+- Premium light blue/purple/pink design
+- Responsive mobile layout
 
-Open `index.html` in a browser.
-
-## Deploy on Vercel
-
-1. Create a GitHub repository.
-2. Upload `index.html`, `style.css`, `script.js`, and the `assets` folder.
-3. Go to https://vercel.com/
-4. Sign in with GitHub.
-5. Select **Add New → Project**.
-6. Import the GitHub repository.
-7. Click **Deploy**.
-
-## Important
-
-Replace the registration button action in `index.html` with the actual Google Form URL before publishing.
+## Registration URL
+https://docs.google.com/forms/d/e/1FAIpQLSfWRKtqy2sqFLkr3jUSMvMA-HnF_yskUkan04whfWXOboxlmg/viewform
